@@ -3,7 +3,7 @@ NETC: A distributed network for the Smart Economy
 
 NETC uses digital identity and blockchain technology to digitize assets and leverages smart contracts for autonomously managed digital assets to create a "smart economy" within a decentralized network.
 
-To learn more about NETC,website：（www.nether.top）
+To learn more about NETC,website：（www.nether.top ）
 
 Supported Platforms
 --------
